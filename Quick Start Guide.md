@@ -1,4 +1,4 @@
-#Quick Start Guide
+# Quick Start Guide
 
 Get up and running with GoLabs in just a few simple steps:
 
