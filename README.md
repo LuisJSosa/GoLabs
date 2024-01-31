@@ -3,6 +3,16 @@
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Contributors](https://img.shields.io/github/contributors/YourUsername/GoLabs)
 ![Last Commit](https://img.shields.io/github/last-commit/YourUsername/GoLabs)
+![GitHub forks](https://img.shields.io/github/forks/YourUsername/GoLabs?style=social)
+![GitHub stars](https://img.shields.io/github/stars/YourUsername/GoLabs?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/YourUsername/GoLabs?style=social)
+![GitHub issues](https://img.shields.io/github/issues/YourUsername/GoLabs)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YourUsername/GoLabs)
+![GitHub license](https://img.shields.io/github/license/YourUsername/GoLabs)
+![Go Report Card](https://goreportcard.com/badge/github.com/YourUsername/GoLabs)
+![Workflow Status](https://img.shields.io/github/workflow/status/YourUsername/GoLabs/Go)
+![Docker Pulls](https://img.shields.io/docker/pulls/YourUsername/GoLabs)
+
 
 This document provides all the necessary information to get you started, contribute to the project, and find answers to common questions.
 
@@ -31,6 +41,8 @@ This document provides all the necessary information to get you started, contrib
 8. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 9. [Future Directions](#future-directions)
 10. [Acknowledgments](#acknowledgments)
+11. [License](#license)
+
 
 # Welcome to GoLabs
 
@@ -48,11 +60,13 @@ GoLabs aims to:
 - Guide learners from the basics of Go syntax to advanced topics like concurrency, all within a project-based framework.
 
 ___________________________________________________________________________________________________________________________
+
 ## Quick Start Guide
 
 Get up and running with GoLabs in just a few simple steps:
 
 1. **Install Go**  
+   ![Go Version](https://img.shields.io/github/go-mod/go-version/YourUsername/GoLabs)
    Ensure Go is installed on your system by following the instructions on the [official Go website](https://golang.org/dl/).
 
    ```bash
@@ -60,6 +74,7 @@ Get up and running with GoLabs in just a few simple steps:
    ```
 
 2. **Set Up Your IDE/Editor**  
+   ![GoLand](https://img.shields.io/badge/IDE-GoLand-blue)
    Configure your favorite IDE or editor with Go support. We recommend [Visual Studio Code](https://code.visualstudio.com/) with the Go extension or [GoLand](https://www.jetbrains.com/go/).
 
 3. **Clone GoLabs Repository**  
@@ -81,7 +96,6 @@ Get up and running with GoLabs in just a few simple steps:
    Each project's `README.md` contains step-by-step instructions to guide you through the learning process.
 
 By following these steps, you'll quickly dive into Go programming with practical projects designed to build your skills progressively. Happy coding!
-  ``
 
 ___________________________________________________________________________________________________________________________
 ## Prerequisites
@@ -106,7 +120,9 @@ Before you embark on your journey through GoLabs, there are a few prerequisites 
   ```
   git --version  # To verify the installation
   ```
-- **Docker (for certain projects)**: Some projects may involve containerization with Docker, so having it installed will be necessary. [Get Docker here](https://www.docker.com/get-started/).
+- **Docker**  
+  ![Docker Version](https://img.shields.io/docker/v/YourUsername/GoLabs)
+  Some projects may involve containerization with Docker, so having it installed will be necessary. [Get Docker here](https://www.docker.com/get-started/).
   ```
   docker --version  # To ensure Docker is installed correctly
   ```
@@ -158,11 +174,18 @@ Welcome to GoLabs, where your journey into Go programming starts with a single s
 
 The repository is organized into individual project directories, each prefixed with a sequential number indicating the recommended order of completion:
 
-```
+```plaintext
 GoLabs/
 ├── Project01_ASCII_Art_and_Patterns/
+│   ├── README.md
+│   └── ...
 ├── Project02_Mad_Libs/
+│   ├── README.md
+│   └── ...
 ├── Project03_Simple_Calculation_CLI_Tool/
+│   ├── README.md
+│   └── ...
+...
 ```
 
 ### How to Proceed
@@ -250,6 +273,12 @@ This project draws inspiration from various sources and contributions within the
 
 
 By progressing through GoLabs, you're not just learning to code in Go; you're building a foundation in software development that will serve you well in any programming endeavor.
+
+## License
+
+GoLabs is released under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+
+This license allows you to use and share the GoLabs projects freely while contributing back to the community.
 
 ## Credits
 
