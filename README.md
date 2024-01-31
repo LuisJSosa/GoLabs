@@ -1,5 +1,9 @@
 # GoLabs: A Hands-On Go Learning Experience
 
+![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributors](https://img.shields.io/github/contributors/YourUsername/GoLabs)
+![Last Commit](https://img.shields.io/github/last-commit/YourUsername/GoLabs)
+
 This document provides all the necessary information to get you started, contribute to the project, and find answers to common questions.
 
 ## Table of Contents
