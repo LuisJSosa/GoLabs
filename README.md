@@ -42,7 +42,7 @@ GoLabs aims to:
 - Provide context and practical use cases for Go programming concepts.
 - Guide learners from the basics of Go syntax to advanced topics like concurrency, all within a project-based framework.
 
-  ```
+___________________________________________________________________________________________________________________________
 ## Quick Start Guide
 
 Get up and running with GoLabs in just a few simple steps:
@@ -78,6 +78,7 @@ Get up and running with GoLabs in just a few simple steps:
 By following these steps, you'll quickly dive into Go programming with practical projects designed to build your skills progressively. Happy coding!
   ``
 
+___________________________________________________________________________________________________________________________
 ## Prerequisites
 
 Before you embark on your journey through GoLabs, there are a few prerequisites that will ensure you have a smooth learning experience. This section outlines the foundational knowledge and essential tools you'll need.
