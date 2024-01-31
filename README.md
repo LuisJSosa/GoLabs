@@ -209,3 +209,9 @@ This project draws inspiration from various sources and contributions within the
 
 By progressing through GoLabs, you're not just learning to code in Go; you're building a foundation in software development that will serve you well in any programming endeavor.
 
+## Credits
+
+This project was created and developed by [Luis J. Sosa](https://github.com/LuisJSosa/). All credit for the original idea, development, and contributions to this project goes to him. Please respect the original authorship when forking or sharing this project.
+
+We encourage contributions and collaborations but ask that you give proper attribution to the original creator as a courtesy and in accordance with open source principles.
+
