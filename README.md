@@ -55,17 +55,17 @@ Before you embark on your journey through GoLabs, there are a few prerequisites 
 ### Essential Tools
 
 - **Go Programming Language**: The latest stable version of Go installed on your machine. You can download it from the [official Go website](https://golang.org/dl/).
-  \```bash
+  \```
   go version  # To verify the installation
   \```
 - **Text Editor or Integrated Development Environment (IDE)**: A comfortable coding environment, such as Visual Studio Code, GoLand, or even a simple text editor like Sublime Text or Atom, equipped with Go syntax support. However, **GoLand** is recommended.
 
 - **Git Version Control**: Basic familiarity with Git for version control, cloning repositories, committing changes, and pushing code. [Download Git here](https://git-scm.com/downloads).
-  \```bash
+  \```
   git --version  # To verify the installation
   \```
 - **Docker (for certain projects)**: Some projects may involve containerization with Docker, so having it installed will be necessary. [Get Docker here](https://www.docker.com/get-started/).
-  \```bash
+  \```
   docker --version  # To ensure Docker is installed correctly
   \```
 
@@ -87,7 +87,7 @@ Follow these steps to set up your development environment for GoLabs:
 1. Download the latest version of Go from the [official Go website](https://golang.org/dl/).
 2. Follow the installation instructions for your specific operating system.
 3. Verify the installation by running the following command in your terminal:
-   \```bash
+   \```
    go version
    \```
 
@@ -104,7 +104,7 @@ Ensure your editor is configured for Go development, with features like syntax h
 
 - **Git**: Install [Git](https://git-scm.com/downloads) and configure it with your user name and email.
 - **Docker**: If your projects involve containerization, install [Docker](https://www.docker.com/get-started) and ensure it's working by running:
-  \```bash
+  \```
   docker --version
   \```
 
@@ -129,7 +129,7 @@ GoLabs/
 
 - **Dive into Each Project**:
   - Navigate into a project directory:
-    \```bash
+    \```
     cd GoLabs/Project01_ASCII_Art_and_Patterns
     \```
   - Open the `README.md` within the project directory. This file is your guidebook for that project, containing an overview, learning objectives, step-by-step instructions, and additional resources.
@@ -151,11 +151,11 @@ Each project is an opportunity to learn and apply Go programming concepts in rea
 To get started with GoLabs, clone this repository and begin with the first project. Each project directory contains a `README.md` with detailed instructions, learning objectives, and resources. Progress through the projects in sequence to build a comprehensive understanding of Go:
 
 1. Clone the repository:
-   \```bash
+   \```
    git clone https://github.com/YourUsername/GoLabs.git
    \```
 2. Navigate to the first project directory:
-   \```bash
+   \```
    cd GoLabs/Project01_ASCII_Art_and_Patterns
    \```
 3. Read the `README.md` for an overview and instructions.
