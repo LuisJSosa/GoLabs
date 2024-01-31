@@ -6,6 +6,7 @@ This document provides all the necessary information to get you started, contrib
 1. [Welcome to GoLabs](#welcome-to-golabs)
 2. [About GoLabs](#about-golabs)
    - [Purpose and Functionality](#purpose-and-functionality)
+   - [Quick Start Guide](#quick-start-guide)
 3. [Prerequisites](#prerequisites)
    - [Foundational Knowledge](#foundational-knowledge)
    - [Essential Tools](#essential-tools)
